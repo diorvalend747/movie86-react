@@ -10,3 +10,5 @@ Tech Stack:
 - Frontend React JS
 - Client Cache Handler with in-Memory cache (Apollo client)
 - Deployed with AWS EC2 (server) and S3 (client)
+
+Hacktiv8 Challenge Phase 3
